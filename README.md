@@ -34,10 +34,11 @@ Neste projeto, desenvolvi uma aplicação de reconhecimento de texto (OCR) utili
 ## Prints do Processo
 
 ### Exemplo de execução do OCR:
-![Print do OCR](inputs/exemplo_print.png)
+![Print do OCR](https://github.com/norwalneto/desafio-deprojeto-2/blob/main/inputs/images.png)
 
 ### Resultado do reconhecimento de texto:
-![Resultado OCR](output/exemplo_resultado.png)
+📄 [`output/imagem.txt`](https://github.com/norwalneto/desafio-deprojeto-2/blob/main/output/imagem.txt)
+
 
 ## Insights e Possibilidades
 
